@@ -1,0 +1,48 @@
+*{
+    margin:0px;
+    font-family:Cambria;
+}
+
+
+header {
+    background-color: rgb(180, 152, 207);
+    color: black;
+}
+
+nav{
+    background-color: rgb(180, 152, 207);
+    padding: 10px 0px 10px 25px; 
+}
+
+nav a {
+    padding: 10px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    color: blac;
+    text-decoration: none;
+}
+
+h4{
+    background-color: white;
+    padding: 20px 30px;
+    margin: 60px 100px;
+    text-align: justify;
+    border-radius: 10px;
+    box-shadow: 3px 4px 10px 2px rgb(107, 107, 107);
+}
+
+.gambar{
+    align-items: center;
+    height: 75px;
+    height: 50px;
+}
+
+.kun{
+    margin:20px 0
+}
+
+footer{
+    color: white;
+    padding: 15px 0px 40px 40px;
+    background-color: rgb(118, 118, 118);
+}
